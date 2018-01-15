@@ -22,9 +22,11 @@ __v.1__
 
 ##### länkar
 
+* [**Genomgång: 01_intro**](https://fend16.github.io/slides/javascript4/01_intro.html#/)
 * [State Of JS Results](https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa)
 * [https://stateofjs.com/](https://stateofjs.com/)
 * [Martin Fowler ](https://martinfowler.com/bliki/UnitTest.html)
+* [Unit Testing @ Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
 
 ### Pass 2 - Torsdag 4/1
 
@@ -35,6 +37,14 @@ __v.1__
 * Integration testning
 * E2E testning
 
+##### länkar
+
+* [**Genomgång: 02_unittesting**](https://fend16.github.io/slides/javascript4/02_unittesting.html#/)
+* [**Övning: Unit tests**](https://github.com/FEND16/unit-test-exercise)
+* [**Demokod: `sum.js`**](https://github.com/FEND16/jest-demo)
+* [Jest Documentation](https://facebook.github.io/jest/)
+* [Jest - Using Matchers](https://facebook.github.io/jest/docs/en/using-matchers.html#content)
+
 ---
 __v.2__
 
@@ -44,25 +54,50 @@ __v.2__
 * Assertion Libraries
 * Mocking & stubbing
 
+##### länkar
+
+* [**Genomgång: 03_async_testing.html**](https://fend16.github.io/slides/javascript4/03_async_testing.html#/)
+* [**Övning: jest-mock-exercise**](https://github.com/FEND16/jest-mock-exercise)
+* [Jest - Async](https://facebook.github.io/jest/docs/en/tutorial-async.html)
+* [Jest - Setup And Teardown](https://facebook.github.io/jest/docs/en/setup-teardown.html)
+* [Jest - Timer Mocks](https://facebook.github.io/jest/docs/en/timer-mocks.html)
+* [Wikipedia - Mock Object](https://en.wikipedia.org/wiki/Mock_object)
+
 ### Pass 4 - Onsdag 10/1
 
 Praktiskt fall:
 * React Unit testning
 * React Integration testing
 
+##### länkar
+
+* [**Genomgång: 04_react_testing**](https://fend16.github.io/slides/javascript4/04_react_testing.html#/)
+* [**Demokod och övning: jest-react-testing**](https://github.com/FEND16/jest-react-testing)
+* [Jest - Snapshot testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
+* [Enzyme Documentation](http://airbnb.io/enzyme/)
+
+
+---
+__v.3__
 ### Pass 5 - Tisdag 16/1
 
 * Code Coverage
 * Verktyg för code coverage
 
----
-__v.3__
+##### länkar
+
+* [Jest configuration](https://facebook.github.io/jest/docs/en/configuration.html)
+* [Code Coverage @ Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
 
 ### Pass 6 - Torsdag 18/1
 
 * Continous Integration
 * Continous Deployment
-* Verktyg för automatiserad testning
+* BDD / TDD
+
+* [Travis](https://travis-ci.org/)
+* [Continous Integration @ Atlassian](https://www.atlassian.com/continuous-delivery/continuous-integration-intro)
+
 
 ### Pass 7 - Fredag 19/1
 
@@ -70,6 +105,12 @@ __v.3__
     * Headless
     * Browser
     * Automatisera
+
+##### länkar
+
+* [cypress.io](https://www.cypress.io/)
+* [Google Blog - Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
+* [What's the difference between unit, functional, acceptance, and integration tests? @ Stack Overflow](https://stackoverflow.com/questions/4904096/whats-the-difference-between-unit-functional-acceptance-and-integration-test)
 
 ---
 __v.4__
