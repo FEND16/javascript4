@@ -139,9 +139,10 @@ __v.5__
 
 ### Pass 11 - Onsdag 31/1
 
-* Presentation av slutexamination
+* Handledning
 
 ### Pass 12 - Torsdag 1/2
 
+* Presentation av slutexamination
 
 
