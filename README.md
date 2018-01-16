@@ -86,7 +86,11 @@ __v.3__
 
 ##### länkar
 
+* [**Genomgång: 05_code_coverage.html**](https://fend16.github.io/slides/javascript4/05_code_coverage.html)
+* [**Övning: jest-react-testing-2](https://github.com/FEND16/jest-react-testing-2)
 * [Jest configuration](https://facebook.github.io/jest/docs/en/configuration.html)
+* [Martin Fowler - Test Coverage](https://martinfowler.com/bliki/TestCoverage.html)
+* [How To Misuse Coverage](http://www.exampler.com/testing-com/writings/coverage.pdf)
 * [Code Coverage @ Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
 
 ### Pass 6 - Torsdag 18/1
