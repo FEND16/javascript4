@@ -99,7 +99,10 @@ __v.3__
 * Continous Deployment
 * BDD / TDD
 
+* [**Genomgång: 06_ci.html**](https://fend16.github.io/slides/javascript4/06_ci.html#/)
+* [**Övning: Behavior Driven Development / Test Driven Development**](https://fend16.github.io/slides/javascript4/06_ci.html#/)
 * [Travis](https://travis-ci.org/)
+* [Coveralls](https://coveralls.io/)
 * [Continous Integration @ Atlassian](https://www.atlassian.com/continuous-delivery/continuous-integration-intro)
 
 
