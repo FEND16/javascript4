@@ -49,9 +49,10 @@ I det här scenarion spelar det ingen roll vilket språk/ramverk/bibliotek som a
 `PizzaCalculator` är en applikation för att beräkna hur många pizzor och hur mycket dricka man måste köpa baserat på hur många personer som ska äta pizza.
 
 Exempelscenario:
-    * Är vi 6 personer måste vi köpa in två pizzor
-    * Är vi 6 personer måste vi köpa 1 2l dricka + en 1l dricka.
-    * Är vi 6 personer så blir den totala summan ca 300kr
+
+  * Är vi 6 personer måste vi köpa in två pizzor
+  * Är vi 6 personer måste vi köpa 1 2l dricka + en 1l dricka.
+  * Är vi 6 personer så blir den totala summan ca 300kr
 
 Hur dessa beräkningar görs är dock upp till er. Sätt upp några grundvariabler som t.ex. _hur många personer kan dela på en pizza_, _hur mycket en standardpizza kostar_ samt _hur många personer som kan dela på en 2l dricka_.
 
